@@ -1,0 +1,75 @@
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\bin\Debug\net6.0\TaskDZ.exe
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\bin\Debug\net6.0\TaskDZ.deps.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\bin\Debug\net6.0\TaskDZ.runtimeconfig.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\bin\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\bin\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.csproj.AssemblyReference.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.AssemblyInfoInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.AssemblyInfo.cs
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\refint\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\TaskDZ.genruntimeconfig.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ\obj\Debug\net6.0\ref\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\bin\Debug\net6.0\TaskDZ.exe
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\bin\Debug\net6.0\TaskDZ.deps.json
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\bin\Debug\net6.0\TaskDZ.runtimeconfig.json
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\bin\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\bin\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.csproj.AssemblyReference.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.AssemblyInfoInputs.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.AssemblyInfo.cs
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\refint\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\TaskDZ.genruntimeconfig.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ\obj\Debug\net6.0\ref\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.csproj.AssemblyReference.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.AssemblyInfoInputs.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.AssemblyInfo.cs
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\refint\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\bin\Debug\net6.0\TaskDZ.exe
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\bin\Debug\net6.0\TaskDZ.deps.json
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\bin\Debug\net6.0\TaskDZ.runtimeconfig.json
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\bin\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\bin\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\TaskDZ.genruntimeconfig.cache
+C:\Users\Ankaladon\Desktop\C#\LP_24.06-22.07_10\TaskDZ 2\obj\Debug\net6.0\ref\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.csproj.AssemblyReference.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.AssemblyInfoInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.AssemblyInfo.cs
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\refint\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\bin\Debug\net6.0\TaskDZ.exe
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\bin\Debug\net6.0\TaskDZ.deps.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\bin\Debug\net6.0\TaskDZ.runtimeconfig.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\bin\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\bin\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\TaskDZ.genruntimeconfig.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21\obj\Debug\net6.0\ref\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\bin\Debug\net6.0\TaskDZ.exe
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\bin\Debug\net6.0\TaskDZ.deps.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\bin\Debug\net6.0\TaskDZ.runtimeconfig.json
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\bin\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\bin\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.csproj.AssemblyReference.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.AssemblyInfoInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.AssemblyInfo.cs
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\refint\TaskDZ.dll
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.pdb
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\TaskDZ.genruntimeconfig.cache
+C:\Users\Ankaladon\Desktop\C#\TaskDZ1\TaskDZ21 — копия\obj\Debug\net6.0\ref\TaskDZ.dll
